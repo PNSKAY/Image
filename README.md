@@ -2,26 +2,19 @@
   <img src="https://media.discordapp.net/attachments/882467296411516998/1035336902678691850/Picsart_22-10-28_05-08-46-357.png" style"width: 100%;border-radius:15px">
 </div>
 
-## <div align="center">I'm Tomato, mainly a Discord Bot Developer! Working since 2017 on Bots 🚀</div>  
+## <div>Felond Think a Music Bot with Many Features i am Felond i Provide You Rich Quality Music </div>  
 
-![](https://discord.c99.nl/widget/theme-3/442355791412854784.png)  
+![https://discord.gg/Cb3RtZVMvv](https://media.discordapp.net/attachments/882467296411516998/1035336902678691850/Picsart_22-10-28_05-08-46-357.png)  
 
 ***
 
-- 🔭 I’m currently working on a [**Multi Function Discord Bot with over 1000+ Features!**](https://milrato.milrato.dev)
-  
-
-- 🌱 I’m currently coding in **Javascript** and C#.  
-  
-
-- ❓  I am in love with coding Discord Bots, I also love helping!.
-  
+- Felond Is Music Bot with Many Features
 <br/>
   
 ***
 
-## [Discord Server 😎](https://discord.gg/dcdev) | [Website](https://milrato.dev)
-<a href="https://discord.gg/dcdev"><img src="https://discord.com/api/guilds/773668217163218944/widget.png?style=banner2"></a>
+## [Felond Community](https://discord.gg/Cb3RtZVMvv)
+<a href="https://discord.gg/Cb3RtZVMvv"><img src="https://media.discordapp.net/attachments/882467296411516998/1035336902678691850/Picsart_22-10-28_05-08-46-357.png"></a>
 
 ***
 
