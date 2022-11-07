@@ -12,7 +12,7 @@
 
 - <div>Felond Provide You Rich Quality Music Bot with Song Request Channel</div>
 <H2>Features</H2>
-```
+```javascript
 Song Request Channel
 
 Playlist Support
@@ -21,7 +21,8 @@ Dj System
 
 40 + Commands
 
-15 + Filters```
+15 + Filters
+```
 <br/>
   
 ***
