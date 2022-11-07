@@ -23,6 +23,3 @@ Dj System
 
 15 + Filters
 ```
-<br/>
-  
-***
